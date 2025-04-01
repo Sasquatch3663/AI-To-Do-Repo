@@ -1,0 +1,7 @@
+matplotlib
+speechrecognition
+google-generativeai
+gtts
+playsound
+plyer
+tkinter
